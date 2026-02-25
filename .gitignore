@@ -1,0 +1,15 @@
+slprj/
+.SimulinkProject/
+*.slxc
+*.png
+*.log
+diary.txt
+*.mat
+savedAgents/
+blockAgentData.mat
+CartPole_Simscape_DQN_Logged_R2024b.mat
+cartpole_policy_codegen_ert_rtw/*.mat
+cartpole_policy_codegen_ert_rtw/*.dmr
+cartpole_policy_codegen_ert_rtw/*.tmw
+cartpole_policy_codegen_ert_rtw/tmwinternal/
+cartpole_policy_codegen_ert_rtw/networkParamsInfo_model.bin
